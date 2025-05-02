@@ -6,9 +6,12 @@ can also add width="400" to the img src part -->
  <img src="https://file.garden/ZRfaX7xMiQQHiMQP/blobsthing.gif"/><img src="https://file.garden/ZRfaX7xMiQQHiMQP/blobsthing.gif"/>
 </p>
 <p align="center">
-<img src="https://file.garden/ZRfaX7xMiQQHiMQP/rigbydotnentttdsv.png" width="300"/>
+<img src="https://file.garden/ZRfaX7xMiQQHiMQP/sillyguy.png" width="40"/> <img src="https://file.garden/ZRfaX7xMiQQHiMQP/rigbydotnentttdsv.png" width="300"/> <img src="https://file.garden/ZRfaX7xMiQQHiMQP/sillyguy.png" width="40"/>
 </p>
 <p align="center">
  <img src="https://file.garden/ZRfaX7xMiQQHiMQP/neuvillettegraphiiicsz.png" width="800"/>
 </p>
 
+<p align="center">
+<img src="https://file.garden/ZRfaX7xMiQQHiMQP/text1.png" width="600"/>
+</p>
