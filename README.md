@@ -28,4 +28,4 @@ can also add width="400" to the img src part -->
  <img src="https://file.garden/ZRfaX7xMiQQHiMQP/blobsthing.gif"/><img src="https://file.garden/ZRfaX7xMiQQHiMQP/blobsthing.gif"/>
 </p>
 
-[![atabookbutton1](https://github.com/user-attachments/assets/4341f0c9-274d-444f-a7b6-93ba1afc3503)](https://rigbydotcorp.atabook.org) [![rentrybutton](https://github.com/user-attachments/assets/eef58b22-2001-4db5-af35-cbc3faca6508)](https://rentry.co/bugbbytes) [![strawpagebutton](https://github.com/user-attachments/assets/e2fcaf1b-4301-499f-bf55-adc2f4494e17)](https://spiderbytes.straw.page)
+[<img src="https://file.garden/ZRfaX7xMiQQHiMQP/atabookbutton1.png" width="450"/>](https://rigbydotcorp.atabook.org)
