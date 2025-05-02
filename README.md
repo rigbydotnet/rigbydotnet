@@ -27,5 +27,6 @@ can also add width="400" to the img src part -->
 <p align="center">
  <img src="https://file.garden/ZRfaX7xMiQQHiMQP/blobsthing.gif"/><img src="https://file.garden/ZRfaX7xMiQQHiMQP/blobsthing.gif"/>
 </p>
-
-[<img src="https://file.garden/ZRfaX7xMiQQHiMQP/atabookbutton1.png" width="450"/>](https://rigbydotcorp.atabook.org)
+<p align="center">
+[<img src="https://file.garden/ZRfaX7xMiQQHiMQP/atabookbutton1.png" width="100"/>](https://rigbydotcorp.atabook.org) [<img src="https://file.garden/ZRfaX7xMiQQHiMQP/strawpagebutton.png" width="100"/>](https://spiderbytes.straw.page) [<img src="https://file.garden/ZRfaX7xMiQQHiMQP/rentrybutton.png" width="100"/>](https://rentry.co/bugbbytes)
+</p>
