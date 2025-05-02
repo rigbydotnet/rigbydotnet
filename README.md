@@ -1,10 +1,9 @@
 ## this is being made currently, check back later for more!
 
 <!--
-**rigbydotnet/rigbydotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+**rigbydotnet/rigbydotnet** is my `README.md` and will appear on my profile
+can also add width="400" to the img src part -->
 
 <p align="center">
-
-  ![blobsthing](https://github.com/user-attachments/assets/e7812568-3236-439a-bc09-d74839ce9f82)
- </p> 
+ <img src="https://file.garden/ZRfaX7xMiQQHiMQP/blobsthing.gif"/><img src="https://file.garden/ZRfaX7xMiQQHiMQP/blobsthing.gif"/>
+</p>
