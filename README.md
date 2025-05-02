@@ -28,5 +28,8 @@ can also add width="400" to the img src part -->
  <img src="https://file.garden/ZRfaX7xMiQQHiMQP/blobsthing.gif"/><img src="https://file.garden/ZRfaX7xMiQQHiMQP/blobsthing.gif"/>
 </p>
 
-[<img src="https://file.garden/ZRfaX7xMiQQHiMQP/atabookbutton1.png" width="100"/>](https://rigbydotcorp.atabook.org) [<img src="https://file.garden/ZRfaX7xMiQQHiMQP/strawpagebutton.png" width="100"/>](https://spiderbytes.straw.page) [<img src="https://file.garden/ZRfaX7xMiQQHiMQP/rentrybutton.png" width="100"/>](https://rentry.co/bugbbytes)
+‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ㅤㅤ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎ㅤㅤ[<img src="https://file.garden/ZRfaX7xMiQQHiMQP/atabookbutton1.png" width="100"/>](https://rigbydotcorp.atabook.org) <img src="https://file.garden/ZRfaX7xMiQQHiMQP/gel_blobsscsc.gif" width="40"/> [<img src="https://file.garden/ZRfaX7xMiQQHiMQP/strawpagebutton.png" width="150"/>](https://spiderbytes.straw.page) <img src="https://file.garden/ZRfaX7xMiQQHiMQP/gel_blobsscsc.gif" width="40"/> [<img src="https://file.garden/ZRfaX7xMiQQHiMQP/rentrybutton.png" width="100"/>](https://rentry.co/bugbbytes)
 
+<p align="center"> 
+ <sub> gel bubble graphics made by @/kiophen on twitter, art is from genshin impact. </sub>
+ </p>
