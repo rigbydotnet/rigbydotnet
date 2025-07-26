@@ -33,3 +33,5 @@ can also add width="400" to the img src part -->
 <p align="center"> 
  <sub> gel bubble graphics made by @/kiophen on twitter, art is from genshin impact. </sub>
  </p>
+
+‎‎‎‎‎‎‎‎ㅤㅤ‎‎‎‎‎‎‎‎ㅤㅤ‎‎‎‎‎‎‎‎ㅤㅤ‎‎‎‎‎‎‎‎ㅤㅤ‎‎‎‎‎‎‎‎ㅤㅤ‎‎‎‎‎‎‎‎ㅤㅤ‎‎‎‎‎‎‎‎ㅤㅤ‎‎‎‎‎‎‎‎ㅤㅤ‎‎‎‎‎‎‎‎ㅤㅤ‎‎‎‎‎‎‎‎ㅤㅤ‎‎‎‎‎‎‎‎ㅤㅤㅤ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ㅤㅤㅤ‎‎‎‎‎‎‎‎ㅤ‎‎‎‎‎‎‎‎ㅤㅤ‎‎‎![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rigbydotnet)
